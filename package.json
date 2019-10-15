@@ -57,7 +57,7 @@
     "moment": "^2.22.0",
     "pend": "^1.2.0",
     "preferences": "^0.2.1",
-    "react-deploy": "0.0.14",
+    "react-deploy": "artursmirnov/react-deploy",
     "react-deploy-progress": "^0.0.1",
     "react-deploy-revision-data": "0.0.1",
     "rsvp": "^3.3.3",
