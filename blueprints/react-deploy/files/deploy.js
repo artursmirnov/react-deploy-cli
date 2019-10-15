@@ -16,7 +16,8 @@ module.exports = function(deployTarget) {
       region: 'us-east-1',
       sslEnabled: true,
       Bucket:''
-    }
+    },
+    useBranchRevisions: false
     // include other plugin configuration that applies to all deploy targets here
   };
 
