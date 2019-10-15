@@ -1,7 +1,7 @@
 {
   "name": "react-deploy-branch-cli",
   "description": "CLI tools to deploy react-app to S3 and CloudFront",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "main": "index.js",
   "bin": {
     "react-deploy": "./index.js"
