@@ -103,7 +103,7 @@ program
 
 
 program
-.command('activate <key> [env]')
+.command('activate [key] [env]')
 .description('activate version with or specific environment')
 .action(function(cmd, opt) {
   // console.log('exec "%s"', cmd, opt);
